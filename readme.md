@@ -1,0 +1,3 @@
+# FuckWorld
+
+first readme
