@@ -21,3 +21,5 @@ for line in sys.stdin:
         word = word.lower()
         if word in Pronouns:
             print('%s\t%s' % (word, 1))
+    
+    print('total\t%s' % (1))
